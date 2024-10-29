@@ -11,7 +11,7 @@ https://dbghelp.github.io/epg.html?file=<link to epg.xml\>
 
 ## Features
 
-- View EPG for specific channel
+- View EPG for specific channel (with thumbnail images from epg.xml)
 - View EPG for all channels (Traditional EPG)
 - Everything in a static html file
 
