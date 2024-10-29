@@ -15,6 +15,15 @@ https://dbghelp.github.io/epg.html?file=<link to epg.xml\>
 - View EPG for all channels (Traditional EPG)
 - Everything in a static html file
 
+## Screenshots
+
+![Local Image](./img/epg_all.png)
+![Local Image](./img/epg_all_hint.png)
+![Local Image](./img/epg_specific.png)
+![Local Image](./img/epg_specific%203.png)
+![Local Image](./img/epg_specific%202.png)
+
+
 ## Usage
 
 To be updated
