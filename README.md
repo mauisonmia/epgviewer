@@ -14,6 +14,7 @@ https://dbghelp.github.io/epg.html?file=<link to epg.xml\>
 - View EPG for specific channel (with thumbnail images from epg.xml)
 - View EPG for all channels (Traditional EPG)
 - Everything in a static html file
+- Easy to integrate into html iptv player (to be released very soon)
 
 ## Screenshots
 
