@@ -24,7 +24,15 @@ https://dbghelp.github.io/epg.html?file=<link to epg.xml\>
 ![Local Image](./img/epg_specific%203.png)
 ![Local Image](./img/epg_specific%202.png)
 
+## CORS issue
 
+Here's a few ways to solve it:
+- Try to use incognito mode (may work)
+- Clone the epg.xml to your github or somewhere else and use that link instead
+- Find a web browser extension like "CORS Unblock"
+- Use a CORS proxy
+- Use other alternative links
+  
 ## Usage
 
 To be updated
