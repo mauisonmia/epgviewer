@@ -14,7 +14,11 @@ https://dbghelp.github.io/epg.html?file=<link to epg.xml\>
 - View EPG for specific channel (with thumbnail images from epg.xml)
 - View EPG for all channels (Traditional EPG)
 - Everything in a static html file
-- Easy to integrate into html iptv player (to be released very soon)
+- Easy to integrate into html iptv player
+
+V2 update:
+- Added support for compressed file formats (`.gz` and `.zip` files)
+- Added error handling for malformed EPGs
 
 ## Screenshots
 
@@ -32,7 +36,5 @@ Here's a few ways to solve it:
 - Find a web browser extension like "CORS Unblock"
 - Use a CORS proxy
 - Use other alternative links
-  
-## Usage
 
-To be updated
+
